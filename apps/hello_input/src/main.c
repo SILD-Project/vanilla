@@ -1,3 +1,14 @@
+/*
+ * apps/hello_input/src/main.c: Source code for the "Hello, input!" example.
+ *
+ * This file is part of the Vanilla project
+ *
+ * Copyright (C) 2024-present Sipaa Projects and the Vanilla contributors
+ *
+ * Use of this source file is governed by the MIT License, available at
+ * https://opensource.org/license/mit.
+ */
+
 #include <efi.h>
 
 #define GETCHAR_ENTER 0xFFFF
