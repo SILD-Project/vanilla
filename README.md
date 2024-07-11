@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="Logo.png" alt="Vanilla UEFI"/>
+  <img src="Logo.png#gh-light-mode-only" alt="Vanilla UEFI"/>
+  <img src="Logo-darkmode.png#gh-dark-mode-only" alt="Vanilla UEFI" />
   <p align="center">The header-only UEFI library, straight from the docs.</p>
 </p>
 
